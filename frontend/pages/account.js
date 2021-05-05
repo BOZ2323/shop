@@ -1,7 +1,7 @@
-export default function SellPage() {
+export default function AccountPage() {
   return (
     <>
-      <p>I am the SellPage</p>
+      <p>I am the AccountPage</p>
       <code>yeaah</code>
     </>
   );
